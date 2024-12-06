@@ -1,0 +1,32 @@
+{
+	"id": 321,
+	"name": "This aint MEH",
+	"author": "Th3k1ll3r72",
+	"creators": [
+		"Th3k1ll3r72"
+	],
+	"verifier": "Th3k1ll3r72",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+    {
+			"user": "WhirlPloof",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		},
+    {
+			"user": "Hex",
+			"link": "",
+			"percent": 100,
+			"hz": 120
+		},
+    {
+			"user": "spipno",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}
