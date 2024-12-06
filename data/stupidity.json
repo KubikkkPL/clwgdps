@@ -1,0 +1,20 @@
+{
+	"id": 1882,
+	"name": "stupidity",
+	"author": "Hex",
+	"creators": [
+		"Hex"
+	],
+	"verifier": "Hex",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+    {
+			"user": "Kubix",
+			"link": "",
+			"percent": 100,
+			"hz": 165
+		}
+  ]
+}
