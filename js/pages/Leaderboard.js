@@ -43,7 +43,7 @@ export default {
                 </div>
                 <div class="player-container">
                     <div class="player">
-                        <h2>#{{ selected + 1 }} {{ entry.user }} - {{ entry.verified.length + entry.completed.length }} demons</h2>
+                        <h2>#{{ selected + 1 }} {{ entry.user }} - {{ entry.verified.length + entry.completed.length }} levels</h2>
                         <h3>{{ entry.total }} points</h3>
                         <p>Packs Bonus: {{ entry.packBonus }} points</p>
                         <div class="packs" v-if="entry.packs.length > 0">
