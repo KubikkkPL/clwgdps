@@ -1,0 +1,26 @@
+{
+	"id": 79,
+	"name": "redmp4",
+	"author": "FoxPowered",
+	"creators": [
+		"FoxPowered"
+	],
+	"verifier": "FoxPowered",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+    {
+			"user": "WhirlPloof",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		},
+    {
+			"user": "spipno",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}
