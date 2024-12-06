@@ -1,0 +1,26 @@
+{
+	"id": 319,
+	"name": "wtf challenge",
+	"author": "Hex",
+	"creators": [
+		"Hex"
+	],
+	"verifier": "Hex",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+    {
+			"user": "ItzPickles",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		},
+    {
+			"user": "WhirlPloof",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}
