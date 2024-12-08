@@ -21,6 +21,12 @@
 			"link": "",
 			"percent": 100,
 			"hz": 240
+		},
+     {
+			"user": "Hex",
+			"link": "",
+			"percent": 100,
+			"hz": 60
 		}
   ]
 }
