@@ -9,5 +9,12 @@
 	"verification": "",
 	"percentToQualify": 100,
 	"password": "-",
-	"records": []
+	"records": [
+		{
+			"user": "Shib",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
