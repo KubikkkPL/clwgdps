@@ -13,5 +13,20 @@
             "wtf_challenge"
         ],
         "colour": "linear-gradient(90deg, rgba(0,53,250,1) 0%, rgba(0,24,97,1) 50%, rgba(0,53,250,1) 100%)"
+    },
+    {
+        "name": "Wave Pack",
+        "levels": [
+            "discrecionunadvised",
+            "cooked_watermelons",
+            "royal_entrance",
+            "samuel_changelle_2",
+            "arcturuscubechallenge",
+            "stupidity",
+            "unnamed_17",
+            "This_aint_MEH",
+            "wtf_challenge"
+        ],
+        "colour": "linear-gradient(180deg, rgba(24,33,204,1) 0%, rgba(29,185,196,1) 50%, rgba(50,209,111,1) 100%)"
     }
 ]
