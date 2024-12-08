@@ -15,6 +15,12 @@
 			"link": "",
 			"percent": 100,
 			"hz": 165
+		},
+     {
+			"user": "Shib",
+			"link": "",
+			"percent": 100,
+			"hz": 240
 		}
   ]
 }
