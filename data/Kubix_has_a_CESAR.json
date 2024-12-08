@@ -1,0 +1,20 @@
+{
+	"id": 1898,
+	"name": "Kubix has a CESAR",
+	"author": "Shib",
+	"creators": [
+		"Shib"
+	],
+	"verifier": "Shib",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "Hex",
+			"link": "",
+			"percent": 100,
+			"hz": 60
+		}
+	]
+}
