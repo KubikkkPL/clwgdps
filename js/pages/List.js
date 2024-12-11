@@ -118,7 +118,7 @@ export default {
                     </template>
                      <h3>> How to Submit Records</h3>
                     <p>
-                        Join our discord server, and  use /record submit
+                        Join our discord server, and send completion proof in #verifications
                     </p>
                     <h3>> Submission Requirements</h3>
                     <p>
@@ -153,7 +153,7 @@ export default {
                         - Using the 2.1 GDPS is allowed for levels verified in 2.1, up to 360 FPS/TPS
                     </p>
                     <p>
-                        - Raw footage (or a pointercrate record of the level) AND clicks will ALWAYS be required for levels in the top 250.
+                        - Raw footage (or a pointercrate record of the level) AND clicks will ALWAYS be required for levels in the top 7.
                     </p>
                     <p>
                         - You always need handcam for every level that is listed as "(Solo)" on the list.
