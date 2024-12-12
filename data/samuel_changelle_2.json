@@ -1,20 +1,13 @@
 {
-	"id": 1884,
+	"id": 1922,
 	"name": "samuel challenge 2",
 	"author": "Sam2217",
 	"creators": [
 		"Sam2217"
 	],
-	"verifier": "Sam2217",
-	"verification": "https://www.youtube.com/watch?v=Ds-yiJoOfwk",
+	"verifier": "Shib",
+	"verification": "",
 	"percentToQualify": 100,
 	"password": "-",
-	"records": [
-   {
-			"user": "Hex",
-			"link": "",
-			"percent": 100,
-			"hz": 60
-		}
-  ]
+	"records": [ ]
 }
