@@ -1,0 +1,20 @@
+{
+	"id": 1919,
+	"name": "Walmart Cabin",
+	"author": "Hex",
+	"creators": [
+		"Hex"
+	],
+	"verifier": "Hex",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "Shib",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		}
+	]
+}
