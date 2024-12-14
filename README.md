@@ -1,1 +1,1 @@
-Credits to The shitty list
+Credits to TSL
