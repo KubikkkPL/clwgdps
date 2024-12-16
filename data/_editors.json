@@ -1,15 +1,12 @@
 [
     {
         "role": "owner",
-        "members": [
-            {
-                "name": "WhirlPloof",
-                "link": "https://www.youtube.com/@whirlpoolgmd"
-            },            
-            {
-                "name": "Hexy",
-                "link": "https://www.youtube.com/@gdhexy"
-            }
-        ]
+        "name": "WhirlPloof",
+        "link": "https://www.youtube.com/@whirlpoolgmd"
+    },
+    {
+        "role": "admin",
+        "name": "Hexy",
+        "link": "https://www.youtube.com/@gdhexy"
     }
 ]
