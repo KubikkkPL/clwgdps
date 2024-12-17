@@ -11,5 +11,21 @@
                 "link": "https://www.youtube.com/@gdhexy"
             }
                    ]
+    },
+    {
+        "role": "admin",
+        "members": [
+            {
+                "name": "Shib",
+                "link": "about:blank"
+            }
+    },
+    {
+        "role": "helper",
+        "members": [
+            {
+                "name": "Depth3",
+                "link": "https://youtube.com/@deepstrider2?si=l1dQtDSRjKiC2hm0"
+            }
     }
 ]
