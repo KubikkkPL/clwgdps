@@ -10,7 +10,7 @@
                 "name": "Hexy",
                 "link": "https://www.youtube.com/@gdhexy"
             }
-                   ]
+        ]
     },
     {
         "role": "admin",
@@ -19,6 +19,7 @@
                 "name": "Shib",
                 "link": "about:blank"
             }
+        ]
     },
     {
         "role": "helper",
@@ -27,5 +28,6 @@
                 "name": "Depth3",
                 "link": "https://youtube.com/@deepstrider2?si=l1dQtDSRjKiC2hm0"
             }
+        ]
     }
 ]
