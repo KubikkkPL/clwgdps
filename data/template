@@ -10,3 +10,17 @@ supporters:
         ]
     }
 ]
+levels:
+{
+	"id": 529,
+	"name": "totally good level",
+	"author": "spipno",
+	"creators": [
+		"spipno"
+	],
+	"verifier": "spipno",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": []
+}
