@@ -9,5 +9,12 @@
 	"verification": "",
 	"percentToQualify": 100,
 	"password": "-",
-	"records": [ ]
+	"records": [
+	        {
+			"user": "Furrious",
+			"link": "https://www.youtube.com/watch?v=flKJuS8Y-vY&ab_channel=Furrious%5BGD%5D",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
