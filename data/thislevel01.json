@@ -1,5 +1,5 @@
 {
-	"id": 2034,
+	"id": 2033,
 	"name": "ThisLevel01",
 	"author": "Blam",
 	"creators": [
@@ -9,5 +9,12 @@
 	"verification": "https://youtu.be/uq-Rqbfc4p8?si=smb6gs-q5US5T4fM",
 	"percentToQualify": 100,
 	"password": "-",
-	"records": []
+	"records": [
+		{
+			"user": "Hex",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		},
+	]
 }
