@@ -15,6 +15,12 @@
 			"link": "https://www.youtube.com/watch?v=KPr2VAfzd0Q&ab_channel=Furrious%5BGD%5D",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Skoe",
+			"link": "https://youtu.be/bOCV4Ixr2Xs",
+			"percent": 100,
+			"hz": 999
 		}
 	]
 }
