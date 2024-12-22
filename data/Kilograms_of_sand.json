@@ -9,12 +9,5 @@
 	"verification": "",
 	"percentToQualify": 100,
 	"password": "-",
-	"records": [
-		{
-			"user": "Doom",
-			"link": "https://youtu.be/ynrGG_MPWgY?si=3S7mi91uWjF5_BqG",
-			"percent": 100,
-			"hz": 240
-		}
-	]
+	"records": []
 }
