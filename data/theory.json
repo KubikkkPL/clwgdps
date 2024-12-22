@@ -1,0 +1,20 @@
+{
+	"id": 1624,
+	"name": "Theory",
+	"author": "ItzPickles",
+	"creators": [
+		"ItzPickles"
+	],
+	"verifier": "ItzPickles",
+	"verification": "https://youtu.be/aJPZm2Kg06E?si=loaubprZlwKdBTBR",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+    {
+			"user": "Skoe",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}
