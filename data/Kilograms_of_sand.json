@@ -1,0 +1,20 @@
+{
+	"id": 2054,
+	"name": "Kilograms of sand",
+	"author": "Kubix",
+	"creators": [
+		"Skoe"
+	],
+	"verifier": "Skoe",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "Doom",
+			"link": "https://youtu.be/ynrGG_MPWgY?si=3S7mi91uWjF5_BqG",
+			"percent": 100,
+			"hz": 240
+		}
+	]
+}
