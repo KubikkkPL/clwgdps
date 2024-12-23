@@ -33,6 +33,12 @@
 			"link": "",
 			"percent": 100,
 			"hz": 165
+		},
+		{
+			"user": "Random",
+			"link": "https://www.youtube.com/watch?v=poYyDxmjYKo",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
