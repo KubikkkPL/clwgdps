@@ -45,6 +45,12 @@
 			"link": "https://www.youtube.com/watch?v=25cFLgV-KVg&ab_channel=Furrious%5BGD%5D",
 			"percent": 100,
 			"hz": 240
+		},
+    {
+			"user": "Random",
+			"link": "https://www.youtube.com/watch?v=poYyDxmjYKo",
+			"percent": 100,
+			"hz": 240
 		}
   ]
 }
