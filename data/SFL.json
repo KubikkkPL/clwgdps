@@ -27,6 +27,12 @@
 			"link": "https://youtu.be/bOCV4Ixr2Xs",
 			"percent": 100,
 			"hz": 999
+		},
+		{
+			"user": "Random",
+			"link": "https://www.youtube.com/watch?v=poYyDxmjYKo",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
