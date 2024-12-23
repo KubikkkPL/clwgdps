@@ -33,7 +33,7 @@
         "colour": "linear-gradient(90deg, rgba(66,105,23,1) 0%, rgba(97,128,43,1) 50%, rgba(146,173,62,1) 100%)"
     },
     {
-        "name": "Furrious pack",
+        "name": "Skoe pack",
         "levels": [
             "hexy_is_dead",
             "arcturuscubechallenge",
@@ -42,5 +42,16 @@
             "stupidity"
         ],
         "colour": "linear-gradient(180deg, rgba(135,135,135,1) 0%, rgba(112,134,143,1) 50%, rgba(13,170,238,1) 100%)"
+    },
+    {
+        "name": "Skoe pack",
+        "levels": [
+            "TARSERADO",
+            "theory",
+            "hexy_is_dead",
+            "DesinkE_corridor",
+            "brainrotten"
+        ],
+        "colour": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(112,112,112,1) 50%, rgba(0,0,0,1) 100%)"
     }
 ]
