@@ -19,6 +19,17 @@
             "arcturuscubechallenge",
             "DesinkE_corridor"
         ],
-        "colour": "linear-gradient(180deg, rgba(24,33,204,1) 0%, rgba(29,185,196,1) 50%, rgba(50,209,111,1) 100%)"
-    }
+        "colour": "linear-gradient(90deg, rgba(24,33,204,1) 0%, rgba(29,185,196,1) 50%, rgba(50,209,111,1) 100%)"
+    },
+    {
+        "name": "Trashcan pack",
+        "levels": [
+            "totally_good_level",
+            "waterworm",
+            "samuel_changelle_2",
+            "cooked_watermelons",
+            "redmp4"
+        ],
+        "colour": "linear-gradient(90deg, rgba(66,105,23,1) 0%, rgba(97,128,43,1) 50%, rgba(146,173,62,1) 100%)"
+    },
 ]
