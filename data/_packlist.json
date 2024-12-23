@@ -33,7 +33,7 @@
         "colour": "linear-gradient(90deg, rgba(66,105,23,1) 0%, rgba(97,128,43,1) 50%, rgba(146,173,62,1) 100%)"
     },
     {
-        "name": "Skoe pack",
+        "name": "Furrious pack",
         "levels": [
             "hexy_is_dead",
             "arcturuscubechallenge",
@@ -53,5 +53,27 @@
             "brainrotten"
         ],
         "colour": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(112,112,112,1) 50%, rgba(0,0,0,1) 100%)"
-    }
+    },
+    {
+        "name": "Hexy pack",
+        "levels": [
+            "nhelv",
+            "PEPSI_PEPSI_PEPSI",
+            "theory",
+            "DesinkE_corridor",
+            "brainrotten"
+        ],
+        "colour": "linear-gradient(180deg, rgba(200,136,230,1) 0%, rgba(225,188,242,1) 50%, rgba(251,242,254) 100%)"
+    },
+    {
+        "name": "Kubix pack",
+        "levels": [
+            "PEPSI_PEPSI_PEPSI",
+            "hexy_is_dead",
+            "royal_entrance",
+            "tea",
+            "brainrotten"
+        ],
+        "colour": "linear-gradient(180deg, rgba(87,248,76,1) 0%, rgba(108,235,140,1) 50%, rgba(134,249,162,1) 100%)"
+    },
 ]
