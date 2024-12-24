@@ -21,6 +21,12 @@
 			"link": "https://www.youtube.com/watch?v=poYyDxmjYKo",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Furrious",
+			"link": "https://www.youtube.com/watch?v=fY7dZLJv40c&ab_channel=Furrious%5BGD%5D",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
