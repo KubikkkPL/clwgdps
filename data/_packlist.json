@@ -75,5 +75,27 @@
             "brainrotten"
         ],
         "colour": "linear-gradient(180deg, rgba(87,248,76,1) 0%, rgba(108,235,140,1) 50%, rgba(134,249,162,1) 100%)"
+    },
+    {
+        "name": "Grayscale pack",
+        "levels": [
+            "nhelv",
+            "PEPSI_PEPSI_PEPSI",
+            "royal_entrance",
+            "walmart_cabin",
+            "wtf_challenge"
+        ],
+        "colour": "linear-gradient(180deg, rgba(200,200,200,1) 0%, rgba(200,200,200,1) 50%, rgba(200,200,200,1) 100%)"
+    },
+    {
+        "name": "Begginer pack",
+        "levels": [
+            "Fear",
+            "thislevel01",
+            "Emerald",
+            "redmp3",
+            "unnamed_17"
+        ],
+        "colour": "linear-gradient(90deg, rgba(208,246,255,1) 0%, rgba(158,233,251,1) 50%, rgba(104,225,255,1) 100%)"
     }
 ]
